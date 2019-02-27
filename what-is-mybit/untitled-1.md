@@ -10,7 +10,7 @@ Ian Worrall \(Founder & CEO\) - A veteran to the bitcoin industry who began as a
 
 Jose Aguinaga \(CTO\) - A web engineer with over 8+ years of experience in javascript related technologies, FinTech development, and software engineering. Jose specialises in cryptography and wealth management solutions.
 
-Konstantin Dmitriev \(Designer\) - 
+Konstantin Dmitriev \(Designer\) - A product designer with a focus on web apps. He has been making cool designy stuff since 2011. He loves working on products and trying to make them easier to understand which the crypto world definitely needs.
 
 Peter Phillips \(Solidity Developer\) -  A developer with five years of experience in data engineering, data visualisation and web app development, who now specialises in Solidity. He was also an early miner of Bitcoin and Ethereum.
 
