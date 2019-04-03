@@ -12,7 +12,7 @@ All contributors to the fund will have a voting right to select new projects. In
 4. If accepted, MYB is escrowed in a smart contract and released to the development team in increments after set milestones are achieved.
 5. Upon approval, funds are distributed from the smart contract.
 
-Successful applications can then join the DDF to rapidly scale development.
+Successful applications can then join Task.Market to rapidly scale development.
 
 \*This is still a work in progress and will be updated as development progresses.
 
