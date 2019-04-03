@@ -2,7 +2,7 @@
 
 MyBit began operations as a Swiss not for profit entity in July 2017. In Q2 2019 we migrated domicile to the Cayman Islands due to the excess costs, bureaucracy, and regulatory/license requirements.
 
-It's founders include: Ian Worrall and Thomas Pollan. Within 6 months of beginning operations, Ian Worrall bought out Thomas Pollan and replaced with current-day CTO, Jose Aguinaga, who was more suited for the position. 
+It's founders include: Ian Worrall and Thomas Pollan. Within 6 months of beginning operations, Thomas Pollan was replaced with current-day CTO, Jose Aguinaga, who was more suited for the position. 
 
 The MyBit Team \(as of Q1 2019\) spans several continents with team members from Canada, USA, Mexico, Portugal, Switzerland, Russia, and New Zealand. By not restricting employees to one location MyBit is able to pull the best of the best from a global pool of talent.
 
