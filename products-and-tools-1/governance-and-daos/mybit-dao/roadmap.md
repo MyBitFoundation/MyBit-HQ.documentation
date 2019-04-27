@@ -4,9 +4,9 @@ Throughout 2019 components of the MyBit Ecosystem will be continuously decentral
 
 v0.1 \(Q2\) Release DAO on main-net. All actions from passed proposals will be manually executed by the MyBit Team.
 
-v0.2 \(Q2\) Instructions added to DAO app and discussion links to be hosted on reddit integrated.
+v0.2 \(Q2\) Burn Action implemented. This enables any user to vote to burn the stake of another user for not following guidelines or acting maliciously. 
 
-v0.3 \(Q2\) 1,000,000 MYB and an amount of ETH \(TBD\) will be deposited into the DAO and its usage is up to the full discretion of DAO participants. This will be the first "action" proposal offered on the MyBit DAO.
+v0.3 \(Q2\) 1,000,000 MYB and an amount of ETH \(TBD\) will be deposited into the DAO and its usage is up to the full discretion of DAO participants. This will be the second "action" proposal offered on the MyBit DAO.
 
 v0.4-v0.8\(Q3-Q4\) The MyBit DAO will be integrated with a decentralised workflow application to manage all work resulting from passed proposals. We are currently exploring 3 options. 
 
